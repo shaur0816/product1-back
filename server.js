@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 3000;
 
 // CWA API 設定
 const CWA_API_BASE_URL = "https://opendata.cwa.gov.tw/api";
-const CWA_API_KEY = process.env.CWA_API_KEY;
+const CWA_API_KEY = CWA-B0462DDC-7822-490B-A0F5-95F06F226B23
+;
 
 // Middleware
 app.use(cors());
